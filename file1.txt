@@ -1,6 +1,1 @@
-hello its a sample text  
-
-C
-C
-C
-
+hello first file 
